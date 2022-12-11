@@ -37,4 +37,4 @@ fn process_data(data: Vec<i32>) -> Vec<i32> {
     // Process the data
     data.iter().map(|x| x * x).collect()
 }
-    ```
+```
